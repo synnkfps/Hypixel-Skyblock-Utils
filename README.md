@@ -3,11 +3,13 @@ Multiple Hypixel Skyblock API Tools *made in Python*
 
 ## Features
 - [X] Bazaar
+- [ ] Bazaar Manipulator **far away**
 - [ ] Auction House
-- [ ] Player Stats / Networth
-- [ ] Player weight
+- [ ] Auction House Flipper / Sniper **far away**
+- [ ] Player Stats / Networth **far away**
+- [ ] Player weight **far away**
 - [ ] Item statuses
-- [ ] Collections / Bestiary
+- [ ] Collections / Bestiary **far away**
 
 ## Setting things up
 1. `pip install requirements`
